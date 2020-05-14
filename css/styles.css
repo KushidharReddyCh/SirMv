@@ -1,0 +1,394 @@
+/*****************************Title Section ********************************/
+.body-one{
+background-color: #ecfbfc;
+}
+.main-building{
+height:85%;
+width: 85%;
+position: relative;
+margin: 0% 7.5%;
+}
+h1{
+  font-family: "Rye";
+  font-size: 50px;
+  text-align: center;
+}
+.image-title{
+  background-color:#f0f0f0;
+}
+.border-design{
+  border: dotted #363636 6px;
+    border-bottom: none;
+    width: 4%;
+
+
+}
+
+/******************************** WhySirMv ********************************/
+#why-sir-mv{
+}
+.why-sirMv{
+  padding:5% 10%;
+  background-color: #f6acc8;
+}
+.why{
+  width::25%;
+  height: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right:5%;
+}
+.why-text{
+  font-family: 'Merriweather';font-size: 10;
+   line-height: 2;
+   text-align: left;
+}
+@media (max-width:1080px) {
+  .why-text{
+    font-size: 20px;
+  }
+}
+/********************************** Founders-Word ***************************/
+#founders-word{
+
+}
+
+.founders-photo{
+  height: 25%;
+  width: 25%;
+  border-radius: 100%;
+
+  float: right;
+  margin-bottom:502px;
+
+}
+.founder{
+
+  background-color: #e43f5a;
+  padding: 10%;
+}
+/*******************************Contact********************************/
+
+#contact-sirmv{
+  background-color:#844685;
+  text-align: center;
+  padding-top: 5%;
+  padding-left: 25%;
+  padding-bottom: 5%;
+}
+.sos-image{
+  padding: 1%;
+
+}
+.sos-pad{
+  padding-top :1%;
+}
+.contact-class{
+
+
+}
+@media (max-width:1080px) {
+  #contact-sirmv{
+    padding-left: 5%;
+  }
+}
+/******************************* Faculty **********************************/
+.body-two{
+  background-color: #dae1e7;
+}
+/*******************************FacultyDesription *************************/
+
+#faculty-description-main{
+  margin-top: 70px;
+
+}
+.fac-des{
+  text-align: left;
+  background-color: #f9f9f9;
+  padding-top:20px 15px;
+  padding-right: 0px;
+  margin-left: 20px;
+}
+.fac-des-text{
+  color: #fe346e;
+   font-family: 'Aleo';font-size: 22px;
+}
+.fac-head{
+  font-family: 'Amethysta';font-size: 45px;
+
+}
+.box{
+  text-align: center;
+  background-color:#ff6363;
+  border-radius: 100%;
+  margin-left: 25px;
+  margin-top: 15px;
+  margin-bottom:25px;
+  color:#f3d1f4;
+  font-family: 'Aleo';
+
+}
+#fac-str{
+  background-color: #f0f0f0;
+  padding: 2%;
+}
+.fac-strength-border{
+
+  border: solid #grey 3px;
+    border-bottom: none;
+    margin: 0 10% 0 ;
+    width: 80%;
+}
+.fac-str-name{
+  text-align: center;
+  font-size: 50px;
+}
+@media (max-width:1080px){
+  .box{
+    text-align: center;
+    background-color:#fc7e2f;
+    border-radius: 100%;
+    margin-left: 65px;
+    margin-top: 10px;
+
+}
+  }
+  .nbr{
+    margin-bottom: 0;
+    padding-top:5% 0 0 0;
+  }
+
+/******************************* Faculty Profile***************************/
+/******************************AbdulKalam *******************************/
+#abdul-kalam{
+  padding: 5% 5% 2% 5%;
+
+  font-family: 'Aleo';font-size: 22px;
+
+}
+.apj{
+  float: left;
+  margin-right:10px;
+  border-radius: 100%;
+}
+.apj-text{
+text-align: center;
+color: #f2a51a;
+
+}
+.card-body{
+  background-color: #f7f7f7;
+
+}
+.faculty-image{
+
+}
+.faculty-name{
+  color: #007892;
+   font-family: 'BioRhyme';font-size: 22px;
+}
+.faculty-hod{
+  font-family: 'Buenard';font-size: 20px;
+  color: #ff5200;
+}
+.faculty-description{
+color: #6f0000;
+}
+.card{
+
+  width: 18rem;
+  padding:0 0;
+  margin: 0px 0;
+  margin-left: 0;
+}
+@media (max-width: 1080px){
+  .card{
+    width: 18rem;
+    padding:0 5%;
+    margin: 10px auto;
+
+  }
+}
+
+/***********************************************About Us******************************************************************/
+/********************** Welcome To Sir Mv ***************/
+#welcome{
+  margin-top: 0;
+}
+.wlcm-img{
+  float: left;
+  margin: 5%;
+}
+.wlcm-text{
+  font-family: 'Merriweather';
+  line-height: 2;
+  font-weight: lighter;
+  color:#6f0000;
+}
+.welcome-to-sirmv{
+  background-color: #AF8BAF;
+  padding: 5%;
+}
+.wlcm-heading{
+  text-align: center;
+  color:#162447;
+  font-size:50px;
+  font-family: 'Amaranth';
+}
+.cars{
+   font-family: 'Amethysta';font-size: 22px;
+   color: #d63447;
+}
+/****************Objectives*********************************/
+.obj{
+  text-align: center;
+}
+#objective{
+  margin-top: 0;
+  padding:1% 5%;
+  background-color: #AF8BAF;
+}
+/***************************************ADMISSIONS ***********************************************/
+#admissions{
+  /* f7f7f7 */
+background-color: #dae1e7;
+padding: 5%;
+}
+.adm{
+  text-align: center;
+  color: #fc8210;
+}
+.adm-text{
+  font-size: 20px;
+
+}
+#adm-prde{
+  background-color: #dae1e7;
+}
+.puc{
+  color: #ff427f;
+  font-size: 40px;
+}
+.course{
+  font-size: 30px;
+  color:#007892;
+}
+.c-item{
+  font-size:20px;
+   font-family: 'Andada';
+   color:#95389e;
+}
+.exam-mode{
+  text-align: center;
+}
+.tab-mode{
+  margin: 0px auto;
+  background-color: #888888;
+  width: 50%;
+  height: 60%;
+  font-family: 'Andada';
+  color: white;
+}
+#mode{
+background-color:#dae1e7;
+margin-top: 0;
+padding: 2% 2% 5%;
+}
+.qe{
+    font-family: 'Amaranth';
+    font-size: 45px;
+}
+/********************************************FACILITIES******************************************************/
+.left-flo{
+  float: left;
+  margin-right: 50px;
+}
+.right-flo{
+  float: right;
+  margin-left: 50px;
+}
+.facilities{
+  padding: 10%;
+}
+#fac-id{
+  background-color:#bc658d;
+  padding-bottom: 10%;
+}
+.sci-lb{
+  width: 348px;
+  height: 159px;
+}
+.faci-text{
+   font-family: 'Arimo';font-size: 22px;
+   color: white;
+   line-height:1.5;
+}
+.faci-head{
+  font-family: 'Arvo';font-size: 45px;
+  color: #120136;
+}
+@media (max-width:1080px) {
+.left-flo{
+  float: none;
+}
+.right-flo{
+  float: none;
+}
+#fac-id{
+  text-align: center;
+}
+}
+/*************************RESULTS*******************************/
+#results{
+  padding: 5% 12%;
+
+}
+.body-results{
+  background-color: #d63447;
+}
+/****************************************MANAGMENT*****************************************/
+.left-float{
+  float: left;
+  margin: 10px;
+  margin-right:20px;
+  border-radius: 100%;
+  width:20%;
+}
+.bo-trustee{
+  padding: 5% 10%;
+  background-color: #dcd6f7;
+  margin:0 150px;
+}
+.bot{
+  background-color: #a6b1e1;
+}
+.bot-head{
+  text-align: center;
+  font-family: 'Angkor';font-size: 45px;
+  color: #2c003e;
+}
+.bot-text{
+  font-family: 'Antic Didone';font-size: 22px;
+  color:#ce0f3d;
+  font-weight: bold;
+}
+.bot-text-job{
+  font-family: 'Belgrano';font-size: 22px;
+}
+.bot-name{
+  font-family: 'Angkor';font-size: 30px;
+  color: #192965;
+}
+@media (max-width:1080px) {
+  .bot{
+    text-align: center;
+
+  }
+  .left-float{
+    float: none;
+    width: 50%;
+  }
+  .bot-text{
+    text-align: left;
+  }
+}
